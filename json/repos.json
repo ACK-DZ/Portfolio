@@ -1,25 +1,25 @@
 [
     {
-        "name": "Fiverr Gigs - MDT Deployment",
+        "name": "FIVERR GIGS - MDT Server ",
         "url": "https://fr.fiverr.com/share/xwzdyl",
         "description": "FIVERR GIGS - Deploying Microsoft deployment toolkit ",
         "banner": "https://raw.githubusercontent.com/ACK-DZ/Portfolio/main/img/fiverr_mdt.JPG",
-        "color": "#19A463",
+        "color": "#19A4636",
         "lang": "Microsoft",
         "date": "2022-04-08T09:58:47Z",
         "stars": 99,
         "forks": 5
     },
     {
-        "name": "FIVERR GIGS - Linux support",
+        "name": "FIVERR GIGS - Linux Support",
         "url": "https://fr.fiverr.com/share/k0qxZL",
         "description": "Predictive Analysis of an IPL Match using SVM Binary Classifier",
         "banner": "https://raw.githubusercontent.com/ACK-DZ/Portfolio/main/img/fiverr_linux.JPG",
-        "color": "#19A463",
-        "lang": "LINUX",
+        "color": "#19A4636",
+        "lang": "Linux",
         "date": "2022-04-08T13:58:21Z",
         "stars": 0,
-        "forks": 0
+        "forks": 2
     },
     {
         "name": "linkpe",
@@ -31,6 +31,5 @@
         "date": "2020-10-09T08:16:31Z",
         "stars": 22,
         "forks": 7
-    },
-    
+    }
 ]
