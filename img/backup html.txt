@@ -6,11 +6,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 		<title>ARIF Chawki Khaled</title>
 		<meta name="title" content="ARIF Chawki Khaled" />
-		<meta name="description" content="Network • System • Learner">
+		<meta name="description" content="Network � System � Learner">
 		<meta name="keywords" content="ARIF Chawki Khaled , Network , system" />
 		<meta name="author" content="ARIF Chawki Khaled" />
 		<meta name="language" content="English">
-		<meta name="copyright" content="ARIF Chawki Khaled © 2022 " />
+		<meta name="copyright" content="ARIF Chawki Khaled � 2022 " />
 		<meta name="robots" content="index, follow">
 		<link rel="shortcut icon" href="favicon.ico">
 		<link rel="icon" type="image/png" href="https://avatars.githubusercontent.com/u/103244353?v=4&s=196	" sizes="196x196" />
@@ -27,7 +27,7 @@
 		<meta property="og:title" content="ARIF Chawki Khaled">
 		<meta property="og:site_name" content="Arif Chawki Khaled">
 		<meta property="og:url" content="https://ack-dz.github.io/Portfolio/">
-		<meta property="og:description" content="Network • System • Learner">
+		<meta property="og:description" content="Network � System � Learner">
 		<meta property="og:type" content="profile">
 		<link rel="stylesheet" type="text/css" href="css/style.css" />
 		<script src="https://kit.fontawesome.com/68b6761ed7.js" crossorigin="anonymous"></script>
@@ -187,7 +187,7 @@
 												</div>
 												<ul class="profile-wrap mt-10">
 													<li>
-														<div class="profile-title" style="font-weight: bold;">💻 Experience Level :</div>
+														<div class="profile-title" style="font-weight: bold;">?? Experience Level :</div>
 														2+ years
 													</li>
 													<li>
@@ -195,7 +195,7 @@
 														Bachelor: Network and cloud computing.
 													</li>
 													<li>
-														<div class="profile-title" style="font-weight: bold;">💡 Skills :</div>
+														<div class="profile-title" style="font-weight: bold;">?? Skills :</div>
 														Microsoft, Linux, Python, Cisco, Virtualization, Cloud Computing, User Support.
 													</li>
 													<li>
@@ -322,13 +322,19 @@
 											</li>
 
 											<li>
-												<a href="https://flyclipart.com/circle-fiverr-round-icon-icon-fiverr-logo-png-765711" title="Circle, Fiverr, Round Icon Icon - Fiverr Logo PNG"><img src="https://raw.githubusercontent.com/ACK-DZ/portfolio/main/img/circle-fiverr-round-icon-icon-765711.png" width="29" style="transform: translate(-40%, -50%) translate(20px, 25px);">
+												<a href="https://flyclipart.com/circle-fiverr-round-icon-icon-fiverr-logo-png-765711" title="Circle, Fiverr, Round Icon Icon - Fiverr Logo PNG"><img src="https://raw.githubusercontent.com/ACK-DZ/portfolio/5956e0d7c2dcf92f73f60c7d0ba0eaf4268146fa/img/fiverr-1.svg" width="50" style="transform: translate(-40%, -50%) translate(20px, 30px);">
+													<i id="tt9" class="zmdi zmdi-github" tabindex="0"></i>
+													<div class="mdl-tooltip" data-mdl-for="tt9" data-upgraded="MaterialTooltip" style="left: 400.467px; margin-left: -50px; top: 568px;">
+														github
 													</div>
 												</a>
 											</li>
 
 											<li>
-												<a href="https://flyclipart.com/circle-fiverr-round-icon-icon-fiverr-logo-png-765711"><img src="https://raw.githubusercontent.com/ACK-DZ/portfolio/main/img/circle-fiverr-round-icon-icon-765711.png" width="29" style="transform: translate(-40%, -50%) translate(50px, -100px);">
+												<a class="fa-brands fa-discord fa-2xl" style="color:#456CDF;" href="https://discord.gg/mvbFdUKK43/"> 
+													<i id="tt10" class="zmdi mdi-discord" tabindex="0"></i>
+													<div class="mdl-tooltip" data-mdl-for="tt10" data-upgraded="MaterialTooltip" style="left: 400.933px; margin-left: -50px; top: 568px;">
+														Discord
 													</div>
 												</a>
 											</li>
@@ -339,10 +345,10 @@
 							</div>
 						</section>
 						<footer class="footer-sec sec-pad-top-sm sec-pad-bottom text-center">
-								Developed with ❤️ in Algeria 🇩🇿
+								Developed with ?? in Algeria ????
 							</p>
 							<h4>thank you for visiting.</h4>
-							<p class="mt-10">ARIF Chawki Khaled © 2022 All rights reserved.</p>
+							<p class="mt-10">ARIF Chawki Khaled � 2022 All rights reserved.</p>
 						</footer>
 					</div>
 				</div>
